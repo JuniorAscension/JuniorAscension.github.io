@@ -1,0 +1,16 @@
+
+#im{
+    width: 650px;
+    height: 400px;
+    float: left;
+}
+.yoruba{
+    background-color:bisque;
+    width: 600px;
+    height: 420px;
+    float: right ;
+    padding-right: 20px;
+}
+.fo{
+    clear: both;
+    margin-bottom: 100px;}

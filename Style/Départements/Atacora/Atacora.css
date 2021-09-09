@@ -1,0 +1,58 @@
+#motAtacora
+{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 30px;
+}
+
+.imgAtacora
+{
+    margin-left: 70px;
+    margin-bottom: 500px;
+    margin-top: 20px;
+    position:relative;
+    width: auto;
+    height: 678px;
+}
+.para1_Atacora
+{
+    margin-right: auto;
+    margin-left:50px ;
+    margin-top: 15px;
+    padding: -100pc;
+}
+#Communes_Atacora
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Administration_Atacora
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Démographie_Atacora
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Géographie_Atacora
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Subdivisions_Atacora
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}

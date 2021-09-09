@@ -1,0 +1,18 @@
+.biogueraimg{
+    float: left;
+    border-radius: 25px;
+}
+.pleinairimg{
+
+    float: right;
+    border-radius: 25px;
+    margin-top: 400px;
+}
+.airdes{
+    padding-bottom: 400px;
+}
+.guerades{
+    padding-right: 100px;
+    text-align: right;
+
+}

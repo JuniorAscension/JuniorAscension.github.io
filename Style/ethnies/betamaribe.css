@@ -1,0 +1,14 @@
+#im{
+    width: 650px;
+    height: 400px;
+    float: left;
+}
+
+.betamaribe{
+    background-color: bisque;
+    width: 600px;
+    height: 410px;
+    float: right ;
+    padding-right: 20px;
+
+}

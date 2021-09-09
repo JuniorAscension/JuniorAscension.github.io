@@ -1,0 +1,42 @@
+.dako{
+
+    width: 800px;
+    margin: 0 15px 15px 0;
+    border-radius: 25px;
+    height: 700px;
+    margin-bottom: 300px;
+    margin-left: 170px;
+    float: right;
+}
+.abomey1{
+
+    width: 800px;
+    height: 700px;
+    float: left;
+    margin: 0 15px 15px 0;
+    box-shadow: indigo;
+    border-radius: 25px;
+}
+
+.goho{
+    border-radius: 25px;
+    width: 750px;
+    height: 500px;
+    float:left;
+    margin-top: 500px;
+}
+
+.gohodes{
+
+    margin-top:500px;
+    padding-right: 200px;
+}
+.dakodes{
+    padding-left: 200px;
+}
+.abomeydes{
+    padding-right: 200px;
+    margin-left: 200px;
+}
+
+

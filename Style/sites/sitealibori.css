@@ -1,0 +1,65 @@
+.des1{
+    
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 200px;
+    border-radius: 15px;
+    height: 530px;
+    width: 1800px;
+    
+    
+    
+    
+}
+.riviere{
+
+    float: left;
+    margin: 0 15px 15px 0;
+    width: 800px;
+    box-shadow: indigo;
+    border-radius: 25px;
+    }
+
+    .des2{
+
+      
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 200px;
+    border-radius: 15px;
+    height: 530px;
+    width: 1200px;
+       
+    }
+
+    .parc{
+
+        width: 800px;
+        float: right;
+    margin: 0 15px 15px 0;
+    box-shadow: indigo;
+    border-radius: 25px;
+    margin-left: 100px;
+    
+    }
+
+    .des3{
+
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 200px;
+    border-radius: 15px;
+    width: 1800px;
+    height: 530px;
+
+    }
+    .savane{
+
+        float: left;
+        margin: 0 15px 15px 0;
+        width: 900px;
+        border-radius: 25px;
+        height: 530px;
+        
+
+    }

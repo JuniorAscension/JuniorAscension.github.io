@@ -1,0 +1,27 @@
+.image
+{
+    float: left;
+    margin-right: 15px;
+}
+.image2
+{
+    float: right;
+    margin-left: 15px;
+}
+.image4
+{
+    float: left;
+    margin-right: 15px;
+}
+.image5
+{
+    float: right;
+    margin-left: 15px;
+    width: 200px;
+}
+.image6
+{
+    float: left;
+    margin-right: 15px;
+   
+}

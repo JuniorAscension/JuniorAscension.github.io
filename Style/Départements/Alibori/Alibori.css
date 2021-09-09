@@ -1,0 +1,59 @@
+#MotAlibori
+{
+    text-align: center;
+    margin-top: 50px;
+    font-size: xx-large;
+
+}
+
+.imgAlibori
+{
+    margin-left: 100px;
+    margin-bottom: 500px;
+    margin-top: auto;
+    position:relative;
+    width: auto;
+    height: 620px;
+}
+.para1_Alibori
+{
+    margin-right: 500px;
+    margin-top: auto;
+    text-align: center;
+    padding: -100pc;
+}
+#Communes_Alibori
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Administration_Alibori
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Démographie_Alibori
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Géographie_Alibori
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Subdivisions_Alibori
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}

@@ -1,0 +1,58 @@
+#motAtlantique
+{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.imgAtlantique
+{
+    margin-left: 100px;
+    margin-bottom: 500px;
+    margin-top: 10px;
+    position:relative;
+    width: auto;
+    height: 650px;
+}
+.para1_Atlantique
+{
+    margin-right: 500px;
+    margin-top: auto;
+    text-align: center justify;
+    padding: -100pc;
+    overflow: auto;
+}
+#Communes_Atlantique
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Administration_Atlantique
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Démographie_Atlantique
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Géographie_Atlantique
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Subdivisions_Atlantique
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}

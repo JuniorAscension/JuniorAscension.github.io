@@ -1,0 +1,147 @@
+.menu
+{ 
+    background-color:  green;
+    height: 200px;
+}
+.h3hotel
+{ 
+    text-align: center;
+    
+
+}
+.imagehotel1 
+{ 
+padding: 50px;
+}
+.image1
+{ 
+    
+    position: absolute;
+    right: 115px;
+    height: 300px;
+    font-weight: 100;
+    width : 500px;
+    margin-top: -50px;
+
+}
+.descriptionbml1
+{ 
+   position: absolute;
+   margin-top: 150px;
+   left: -50px;
+
+}
+.h4hotel1
+{ 
+   position: absolute;
+   margin-top: 200px;
+   left: -50px;
+}
+.imagehotel2
+{ 
+padding: 50px;
+}
+.image2
+{ 
+    position: absolute;
+    right: 115px;
+    height: 300px;
+    font-weight: 100;
+    width : 500px;
+    margin-top: 190px;
+
+}
+.descriptionbml2
+{ 
+   position: absolute;
+   margin-top: 390px;
+   left: -50px;
+
+}
+.h4hotel2
+{ 
+   position: absolute;
+   margin-top: 430px;
+   left: -50px;
+}
+.imagehotel3
+{ 
+padding: 50px;
+}
+.image3
+{ 
+    position: absolute;
+    right: 115px;
+    height: 300px;
+    font-weight: 100;
+    width : 500px;
+    margin-top: 430px;
+
+}
+.descriptionbml3
+{ 
+   position: absolute;
+   margin-top: 630px;
+   left: -50px;
+
+}
+.h4hotel3
+{ 
+   position: absolute;
+   margin-top: 680px;
+   left: -50px;
+}
+.imagehotel4
+{ 
+padding: 50px;
+}
+.image4
+{ 
+    position: absolute;
+    right: 115px;
+    height: 300px;
+    font-weight: 100;
+    width : 500px;
+    margin-top: 670px;
+
+}
+.descriptionbml4
+{ 
+   position: absolute;
+   margin-top: 870px;
+   left: -50px;
+
+}
+.h4hotel4
+{ 
+   position: absolute;
+   margin-top: 920px;
+   left: -50px;
+}
+.imagehotel5
+{ 
+padding: 50px;
+}
+.image5
+{ 
+    position: absolute;
+    right: 115px;
+    height: 300px;
+    font-weight: 100;
+    width : 500px;
+    margin-top: 910px;
+
+}
+.descriptionbml5
+{ 
+   position: absolute;
+   margin-top: 1150px;
+   left: -50px;
+
+}
+.h4hotel5
+{ 
+   position: absolute;
+   margin-top: 1200px;
+   left: -50px;
+}

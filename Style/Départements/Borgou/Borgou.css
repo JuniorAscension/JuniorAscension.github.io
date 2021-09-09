@@ -1,0 +1,57 @@
+#motBorgou
+{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.imgBorgou
+{
+    margin-left: 100px;
+    margin-bottom: 500px;
+    margin-top: 10px;
+    position:relative;
+    width: auto;
+    height: 600px;
+}
+.para1_Borgou
+{
+    margin-right: 500px;
+    margin-top: auto;
+    text-align: center justify;
+    padding: -100px;
+}
+#Communes_Borgou
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Administration_Borgou
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Démographie_Borgou
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Géographie_Borgou
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Subdivisions_Borgou
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}

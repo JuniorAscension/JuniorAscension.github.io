@@ -1,0 +1,177 @@
+/* Entete et navbar*/
+
+.entete
+{
+    
+    background-color: green;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.dropbtn {
+    background-color: #7dd40b;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #7dd40b;
+    min-width: 160px;
+    z-index: 100;
+    /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover .dropdown-content{
+    background-color: #7dd40b;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    background-color: #7dd40b;
+
+    
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #e49b14;
+}
+.image
+{
+    width: 5px;
+    height: 5px;
+}
+.autre
+{
+    
+    background-color:  #7dd40b;
+    height: 56px;
+    width: 100%;
+   
+}
+.a
+{
+    text-align: center;
+    padding: 15px;
+    
+}
+
+/* Descriptif*/
+
+.par
+{
+    margin-right:auto;
+    margin-left: auto;
+    text-align: justify;
+}
+#image
+{
+    width: 925px;
+    border-radius: 25px;
+}
+#situation
+{
+    width: 1000px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: slategrey;
+}
+#Morphologie
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:  slategrey;
+
+}
+#Histoire
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:  slategrey;
+
+}
+#colorpays
+{
+    color: blue;
+}
+#colorregion
+{
+    color: blue;
+}
+#colorville
+{
+    color: blue;
+}
+#colortype
+{
+    color: blue;
+}
+#colorcreation
+{
+    color: blue;
+}
+.par
+{
+    margin-top: auto;
+}
+.motEtoile
+{
+    font-size: xx-large;
+    color: red;
+    margin-bottom: auto;
+}
+/* Carousel*/
+
+.imageCarousel {
+    height: 800px;
+    width: 1840px;
+}
+
+/* Newsletter*/
+#in{
+    margin-left: 20px;
+    margin-bottom: 0 px;
+}
+#en{
+    margin-left: 10px;
+}
+.container{
+    border-radius: 20px;
+    background-color: wheat;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+/* Footer*/
+
+.abc
+{ 
+   background-color: green;
+    height: 400px;
+}
+.h1footer { 
+    color: white;
+
+}
+
